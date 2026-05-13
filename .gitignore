@@ -5,4 +5,5 @@
 !.gitignore
 !image/
 !image/**
+!live/
 !live/cozy-toads-terrarium.mp4
