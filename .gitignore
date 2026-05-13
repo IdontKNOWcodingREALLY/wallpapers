@@ -1,0 +1,8 @@
+# ignore everything
+*
+
+# except these
+!.gitignore
+!image/
+!image/**
+!live/cozy-toads-terrarium.mp4
