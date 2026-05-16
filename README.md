@@ -140,19 +140,13 @@ Wallpaper/
 <tr>
 <td><img src="image/wallpaper/wallhaven-4g935e.jpg" width="200"/></td>
 <td><img src="image/wallpaper/wallhaven-4yyx8d.jpg" width="200"/></td>
-<td><img src="image/wallpaper/wallhaven-763ryv.png" width="200"/></td>
+<td><img src="image/wallpaper/peakpx.jpg" width="200"/></td>
 <td><img src="image/wallpaper/wallhaven-lywpjl.jpg" width="200"/></td>
 </tr>
 <tr>
-<td><img src="image/wallpaper/wallhaven-neegvw.png" width="200"/></td>
+<td><img src="image/wallpaper/wp10194630-ousama-ranking-wallpapers_upscayl_1x_digital-art-4x.png" width="200"/></td>
 <td><img src="image/wallpaper/wallhaven-ox7k3m.jpg" width="200"/></td>
 <td><img src="image/wallpaper/wp10194439-ousama-ranking-wallpapers.jpg" width="200"/></td>
-<td><img src="image/wallpaper/wp10194630-ousama-ranking-wallpapers_upscayl_1x_digital-art-4x.png" width="200"/></td>
-</tr>
-<tr>
-<td><img src="image/wallpaper/peakpx.jpg" width="200"/></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 </table>
@@ -233,8 +227,8 @@ Wallpaper/
 <tr>
 <td><img src="image/Rejected/old/f538068696.jpg" width="200"/></td>
 <td><img src="image/Rejected/old/bp-miller-rGDv4llw-mk-unsplash.jpg" width="200"/></td>
-<td></td>
-<td></td>
+<td><img src="image/wallpaper/wallhaven-763ryv.png" width="200"/></td>
+<td><img src="image/wallpaper/wallhaven-neegvw.png" width="200"/></td>
 </tr>
 </table>
 </details>
