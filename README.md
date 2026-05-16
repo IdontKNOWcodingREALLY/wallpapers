@@ -1,6 +1,6 @@
 # 🖼️ Wallpapers
 
-Personal wallpaper collection — backup and dump.
+A personal wallpaper collection — backup and dump.
 
 > **Clone:**
 > ```bash
