@@ -227,8 +227,8 @@ Wallpaper/
 <tr>
 <td><img src="image/Rejected/old/f538068696.jpg" width="200"/></td>
 <td><img src="image/Rejected/old/bp-miller-rGDv4llw-mk-unsplash.jpg" width="200"/></td>
-<td><img src="image/wallpaper/wallhaven-763ryv.png" width="200"/></td>
-<td><img src="image/wallpaper/wallhaven-neegvw.png" width="200"/></td>
+<td><img src="image/Rejected/old/wallhaven-763ryv.png" width="200"/></td>
+<td><img src="image/Rejected/old/wallhaven-neegvw.png" width="200"/></td>
 </tr>
 </table>
 </details>
