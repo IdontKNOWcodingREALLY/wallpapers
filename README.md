@@ -149,6 +149,12 @@ Wallpaper/
 <td><img src="image/wallpaper/wp10194439-ousama-ranking-wallpapers.jpg" width="200"/></td>
 <td><img src="image/wallpaper/wp10194630-ousama-ranking-wallpapers_upscayl_1x_digital-art-4x.png" width="200"/></td>
 </tr>
+<tr>
+<td><img src="image/wallpaper/peakpx.jpg" width="200"/></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
 
 ---
