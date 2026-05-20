@@ -246,9 +246,6 @@ Wallpaper/
 <td><img src="image/Rejected/funny/205655.jpg" width="200"/></td>
 </tr>
 <td><img src="image/Rejected/funny/93932.jpg" width="200"/></td>
-<td><img src="image/Rejected/funny/" width="200"/></td>
-<td><img src="image/Rejected/funny/" width="200"/></td>
-<td><img src="image/Rejected/funny/" width="200"/></td>
 </tr>
 </table>
 </details>
@@ -273,9 +270,6 @@ Wallpaper/
 <td><img src="image/Rejected/architect/pexels-hemant-singh-chauhan-639506990-26582100.jpg" width="200"/></td>
 </tr>
 <td><img src="image/Rejected/architect/pexels-momentsbypeterpatel-11835216.jpg" width="200"/></td>
-<td><img src="image/Rejected/architect/" width="200"/></td>
-<td><img src="image/Rejected/architect/" width="200"/></td>
-<td><img src="image/Rejected/architect/" width="200"/></td>
 </tr>
 </table>
 </details>
