@@ -150,8 +150,13 @@ Wallpaper/
 <td><img src="image/wallpaper/wp10194630-ousama-ranking-wallpapers_upscayl_1x_digital-art-4x.png" width="200"/></td>
 <td><img src="image/wallpaper/wallhaven-ox7k3m.jpg" width="200"/></td>
 <td><img src="image/wallpaper/wp10194439-ousama-ranking-wallpapers.jpg" width="200"/></td>
-<td></td>
+<td><img src="image/wallpaper/3257793.jpg" width="200"> </td>
 </tr>
+<tr>
+<td> <img src="image/wallpaper/3257760.jpg"  width="200"/></td>
+<td></td>
+<td></td>
+<td></td>
 </table>
 
 ---
@@ -258,23 +263,18 @@ Wallpaper/
 <table>
 <tr>
 <td><img src="image/Rejected/architect/2217476.jpg" width="200"/></td>
-<td><img src="image/Rejected/architect/3257793.jpg" width="200"/></td>
+<td><img src="image/Rejected/architect/pexels-momentsbypeterpatel-11835216.jpg" width="200"/></td>
 <td><img src="image/Rejected/architect/5917507.jpg" width="200"/></td>
 <td><img src="image/Rejected/architect/8442505.jpg" width="200"/></td>
 </tr>
 <td><img src="image/Rejected/architect/pexels-byrahul-2121549.jpg" width="200"/></td>
 <td><img src="image/Rejected/architect/pexels-jigar-patel-759288102-19766571.jpg" width="200"/></td>
 <td><img src="image/Rejected/architect/pexels-setu-r8-3169012.jpg" width="200"/></td>
-<td><img src="image/Rejected/architect/3257760.jpg" width="200"/></td>
-</tr>
 <td><img src="image/Rejected/architect/5917495.jpg" width="200"/></td>
+</tr>
 <td><img src="image/Rejected/architect/5917531.jpg" width="200"/></td>
 <td><img src="image/Rejected/architect/pexels-anirudh-kashyap-1066393-4511745.jpg" width="200"/></td>
 <td><img src="image/Rejected/architect/pexels-hemant-singh-chauhan-639506990-26582100.jpg" width="200"/></td>
-</tr>
-<td><img src="image/Rejected/architect/pexels-momentsbypeterpatel-11835216.jpg" width="200"/></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 </table>
