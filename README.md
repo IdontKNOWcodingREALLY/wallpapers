@@ -240,15 +240,15 @@ Wallpaper/
 <summary>funny</summary>
 <table>
 <tr>
-<td><img scr="image/Rejected/funny/205644.jpg" width="200"/></td>
-<td><img scr="image/Rejected/funny/205646.jpg" width="200"/></td>
-<td><img scr="image/Rejected/funny205654.jpg/" width="200"/></td>
-<td><img scr="image/Rejected/funny/205655.jpg" width="200"/></td>
+<td><img src="image/Rejected/funny/205644.jpg" width="200"/></td>
+<td><img src="image/Rejected/funny/205646.jpg" width="200"/></td>
+<td><img src="image/Rejected/funny205654.jpg/" width="200"/></td>
+<td><img src="image/Rejected/funny/205655.jpg" width="200"/></td>
 </tr>
-<td><img scr="image/Rejected/funny/93932.jpg" width="200"/></td>
-<td><img scr="image/Rejected/funny/" width="200"/></td>
-<td><img scr="image/Rejected/funny/" width="200"/></td>
-<td><img scr="image/Rejected/funny/" width="200"/></td>
+<td><img src="image/Rejected/funny/93932.jpg" width="200"/></td>
+<td><img src="image/Rejected/funny/" width="200"/></td>
+<td><img src="image/Rejected/funny/" width="200"/></td>
+<td><img src="image/Rejected/funny/" width="200"/></td>
 </tr>
 </table>
 </details>
@@ -257,25 +257,25 @@ Wallpaper/
 <summary>architect</summary>
 <table>
 <tr>
-<td><img scr="image/Rejected/architect/2217476.jpg" width="200"/></td>
-<td><img scr="image/Rejected/architect/3257793.jpg" width="200"/></td>
-<td><img scr="image/Rejected/architect/5917507.jpg" width="200"/></td>
-<td><img scr="image/Rejected/architect/8442505.jpg" width="200"/></td>
+<td><img src="image/Rejected/architect/2217476.jpg" width="200"/></td>
+<td><img src="image/Rejected/architect/3257793.jpg" width="200"/></td>
+<td><img src="image/Rejected/architect/5917507.jpg" width="200"/></td>
+<td><img src="image/Rejected/architect/8442505.jpg" width="200"/></td>
 </tr>
-<td><img scr="image/Rejected/architect/pexels-byrahul-2121549.jpg" width="200"/></td>
-<td><img scr="image/Rejected/architect/pexels-jigar-patel-759288102-19766571.jpg" width="200"/></td>
-<td><img scr="image/Rejected/architect/pexels-setu-r8-3169012.jpg" width="200"/></td>
-<td><img scr="image/Rejected/architect/3257760.jpg" width="200"/></td>
+<td><img src="image/Rejected/architect/pexels-byrahul-2121549.jpg" width="200"/></td>
+<td><img src="image/Rejected/architect/pexels-jigar-patel-759288102-19766571.jpg" width="200"/></td>
+<td><img src="image/Rejected/architect/pexels-setu-r8-3169012.jpg" width="200"/></td>
+<td><img src="image/Rejected/architect/3257760.jpg" width="200"/></td>
 </tr>
-<td><img scr="image/Rejected/architect/5917495.jpg" width="200"/></td>
-<td><img scr="image/Rejected/architect/5917531.jpg" width="200"/></td>
-<td><img scr="image/Rejected/architect/pexels-anirudh-kashyap-1066393-4511745.jpg" width="200"/></td>
-<td><img scr="image/Rejected/architect/pexels-hemant-singh-chauhan-639506990-26582100.jpg" width="200"/></td>
+<td><img src="image/Rejected/architect/5917495.jpg" width="200"/></td>
+<td><img src="image/Rejected/architect/5917531.jpg" width="200"/></td>
+<td><img src="image/Rejected/architect/pexels-anirudh-kashyap-1066393-4511745.jpg" width="200"/></td>
+<td><img src="image/Rejected/architect/pexels-hemant-singh-chauhan-639506990-26582100.jpg" width="200"/></td>
 </tr>
-<td><img scr="image/Rejected/architect/pexels-momentsbypeterpatel-11835216.jpg" width="200"/></td>
-<td><img scr="image/Rejected/architect/" width="200"/></td>
-<td><img scr="image/Rejected/architect/" width="200"/></td>
-<td><img scr="image/Rejected/architect/" width="200"/></td>
+<td><img src="image/Rejected/architect/pexels-momentsbypeterpatel-11835216.jpg" width="200"/></td>
+<td><img src="image/Rejected/architect/" width="200"/></td>
+<td><img src="image/Rejected/architect/" width="200"/></td>
+<td><img src="image/Rejected/architect/" width="200"/></td>
 </tr>
 </table>
 </details>
