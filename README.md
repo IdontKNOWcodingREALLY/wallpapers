@@ -242,7 +242,7 @@ Wallpaper/
 <tr>
 <td><img src="image/Rejected/funny/205644.jpg" width="200"/></td>
 <td><img src="image/Rejected/funny/205646.jpg" width="200"/></td>
-<td><img src="image/Rejected/funny205654.jpg/" width="200"/></td>
+<td><img src="image/Rejected/funny/205654.jpg/" width="200"/></td>
 <td><img src="image/Rejected/funny/205655.jpg" width="200"/></td>
 </tr>
 <td><img src="image/Rejected/funny/93932.jpg" width="200"/></td>
