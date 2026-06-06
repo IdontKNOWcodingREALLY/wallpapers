@@ -54,17 +54,11 @@ Wallpaper/
 <tr>
 <td><img src="image/wallpaper/art002e009284~large.jpg" width="200"/></td>
 <td><img src="image/wallpaper/art002e009285~large.jpg" width="200"/></td>
-<td><img src="image/wallpaper/art002e009298~large.jpg" width="200"/></td>
-<td><img src="image/wallpaper/art002e009301~large.jpg" width="200"/></td>
-</tr>
-<tr>
-<td><img src="image/wallpaper/art002e009571~large.jpg" width="200"/></td>
 <td><img src="image/wallpaper/art002e009575~large.jpg" width="200"/></td>
 <td><img src="image/wallpaper/art002e012632~large.jpg" width="200"/></td>
-<td><img src="image/wallpaper/art002e014066~large.jpg" width="200"/></td>
 </tr>
 <tr>
-<td><img src="image/wallpaper/art002e015231~large.jpg" width="200"/></td>
+<td><img src="image/wallpaper/art002e014066~large.jpg" width="200"/></td>
 <td><img src="image/wallpaper/c-slowtumaagtso_upscayl_2x_upscayl-lite-4x.png" width="200"/></td>
 <td><img src="image/wallpaper/f0027256.png" width="200"/></td>
 <td><img src="image/wallpaper/f1095853224.png" width="200"/></td>
@@ -201,25 +195,19 @@ Wallpaper/
 <tr>
 <td><img src="image/Misc/Painting wallpapers/106683739-fishes-and-blossoms-japanese-art.jpg" width="200"/></td>
 <td><img src="image/Misc/Painting wallpapers/1277880.jpg" width="200"/></td>
-<td><img src="image/Misc/Painting wallpapers/1428894.jpg" width="200"/></td>
 <td><img src="image/Misc/Painting wallpapers/1428908.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/207902-painting-art-wallpaper-background-image-picture.jpg" width="200"/></td>
 </tr>
 <tr>
-<td><img src="image/Misc/Painting wallpapers/207902-painting-art-wallpaper-background-image-picture.jpg" width="200"/></td>
 <td><img src="image/Misc/Painting wallpapers/244817-landscape-oil-painting-wallpaper-1920x1080-oil-painting.jpg" width="200"/></td>
 <td><img src="image/Misc/Painting wallpapers/339202-may-west-wallpaper-may-wallpaper-devil.jpg" width="200"/></td>
 <td><img src="image/Misc/Painting wallpapers/397366.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/397369.jpg" width="200"/></td>
 </tr>
 <tr>
-<td><img src="image/Misc/Painting wallpapers/397369.jpg" width="200"/></td>
 <td><img src="image/Misc/Painting wallpapers/435574-old-watches-painting-ultra-hd-desktop-background-wallpaper-for-4k.jpg" width="200"/></td>
 <td><img src="image/Misc/Painting wallpapers/56525620-blue-cherry-blossom-japanese-painting.jpg" width="200"/></td>
 <td><img src="image/Misc/Painting wallpapers/828072-dark-floral-flower-arrangement-wallpaper-mural.jpg" width="200"/></td>
-</tr>
-<tr>
-<td><img src="image/Misc/Painting wallpapers/9644.jpg" width="200"/></td>
-<td><img src="image/Misc/Painting wallpapers/Train Station Painting Wallpaper.jpg" width="200"/></td>
-<td></td>
 <td></td>
 </tr>
 </table>
