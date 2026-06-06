@@ -15,7 +15,7 @@ A personal wallpaper collection — backup and dump.
 Wallpaper/
 ├── image/
 │   ├── wallpaper/     ← active wallpapers
-│   └── Rejected/      ← rejected ones (kept for reference)
+│   └── Misc/      ← Misc wallpapers categorize in diffrent folders
 │       ├── Artemis II/
 │       ├── graphics/
 │       ├── old/
@@ -161,33 +161,33 @@ Wallpaper/
 
 ---
 
-## 🗑️ Rejected
+## ✨ Misc
 
 <details>
 <summary>Artemis II</summary>
 <table>
 <tr>
-<td><img src="image/Rejected/Artemis II/art002e009284~large.jpg" width="200"/></td>
-<td><img src="image/Rejected/Artemis II/art002e009285~large.jpg" width="200"/></td>
-<td><img src="image/Rejected/Artemis II/art002e009287~large.jpg" width="200"/></td>
-<td><img src="image/Rejected/Artemis II/art002e009288orig.jpg" width="200"/></td>
+<td><img src="image/Misc/Artemis II/art002e009284~large.jpg" width="200"/></td>
+<td><img src="image/Misc/Artemis II/art002e009285~large.jpg" width="200"/></td>
+<td><img src="image/Misc/Artemis II/art002e009287~large.jpg" width="200"/></td>
+<td><img src="image/Misc/Artemis II/art002e009288orig.jpg" width="200"/></td>
 </tr>
 <tr>
-<td><img src="image/Rejected/Artemis II/art002e009289~large.jpg" width="200"/></td>
-<td><img src="image/Rejected/Artemis II/art002e009298~large.jpg" width="200"/></td>
-<td><img src="image/Rejected/Artemis II/art002e009301~large.jpg" width="200"/></td>
-<td><img src="image/Rejected/Artemis II/art002e009571~large.jpg" width="200"/></td>
+<td><img src="image/Misc/Artemis II/art002e009289~large.jpg" width="200"/></td>
+<td><img src="image/Misc/Artemis II/art002e009298~large.jpg" width="200"/></td>
+<td><img src="image/Misc/Artemis II/art002e009301~large.jpg" width="200"/></td>
+<td><img src="image/Misc/Artemis II/art002e009571~large.jpg" width="200"/></td>
 </tr>
 <tr>
-<td><img src="image/Rejected/Artemis II/art002e009575~large.jpg" width="200"/></td>
-<td><img src="image/Rejected/Artemis II/art002e012632~large.jpg" width="200"/></td>
-<td><img src="image/Rejected/Artemis II/art002e014066~large.jpg" width="200"/></td>
-<td><img src="image/Rejected/Artemis II/art002e015231~large.jpg" width="200"/></td>
+<td><img src="image/Misc/Artemis II/art002e009575~large.jpg" width="200"/></td>
+<td><img src="image/Misc/Artemis II/art002e012632~large.jpg" width="200"/></td>
+<td><img src="image/Misc/Artemis II/art002e014066~large.jpg" width="200"/></td>
+<td><img src="image/Misc/Artemis II/art002e015231~large.jpg" width="200"/></td>
 </tr>
 <tr>
-<td><img src="image/Rejected/Artemis II/art002e021278~large.jpg" width="200"/></td>
-<td><img src="image/Rejected/Artemis II/art002e021296~large.jpg" width="200"/></td>
-<td><img src="image/Rejected/Artemis II/wallhaven-vpyekp.jpg" width="200"/></td>
+<td><img src="image/Misc/Artemis II/art002e021278~large.jpg" width="200"/></td>
+<td><img src="image/Misc/Artemis II/art002e021296~large.jpg" width="200"/></td>
+<td><img src="image/Misc/Artemis II/wallhaven-vpyekp.jpg" width="200"/></td>
 <td></td>
 </tr>
 </table>
@@ -197,22 +197,22 @@ Wallpaper/
 <summary>Graphics</summary>
 <table>
 <tr>
-<td><img src="image/Rejected/graphics/f242833344.jpg" width="200"/></td>
-<td><img src="image/Rejected/graphics/f242881792.jpg" width="200"/></td>
-<td><img src="image/Rejected/graphics/f242883696.jpg" width="200"/></td>
-<td><img src="image/Rejected/graphics/f242886736.jpg" width="200"/></td>
+<td><img src="image/Misc/graphics/f242833344.jpg" width="200"/></td>
+<td><img src="image/Misc/graphics/f242881792.jpg" width="200"/></td>
+<td><img src="image/Misc/graphics/f242883696.jpg" width="200"/></td>
+<td><img src="image/Misc/graphics/f242886736.jpg" width="200"/></td>
 </tr>
 <tr>
-<td><img src="image/Rejected/graphics/f242890160.jpg" width="200"/></td>
-<td><img src="image/Rejected/graphics/f242903152.png" width="200"/></td>
-<td><img src="image/Rejected/graphics/f242914320.png" width="200"/></td>
-<td><img src="image/Rejected/graphics/f242924016.jpg" width="200"/></td>
+<td><img src="image/Misc/graphics/f242890160.jpg" width="200"/></td>
+<td><img src="image/Misc/graphics/f242903152.png" width="200"/></td>
+<td><img src="image/Misc/graphics/f242914320.png" width="200"/></td>
+<td><img src="image/Misc/graphics/f242924016.jpg" width="200"/></td>
 </tr>
 <tr>
-<td><img src="image/Rejected/graphics/f242926752.png" width="200"/></td>
-<td><img src="image/Rejected/graphics/f242938264.jpg" width="200"/></td>
-<td><img src="image/Rejected/graphics/f242942552.jpg" width="200"/></td>
-<td><img src="image/Rejected/graphics/f242946048.png" width="200"/></td>
+<td><img src="image/Misc/graphics/f242926752.png" width="200"/></td>
+<td><img src="image/Misc/graphics/f242938264.jpg" width="200"/></td>
+<td><img src="image/Misc/graphics/f242942552.jpg" width="200"/></td>
+<td><img src="image/Misc/graphics/f242946048.png" width="200"/></td>
 </tr>
 </table>
 </details>
@@ -221,22 +221,22 @@ Wallpaper/
 <summary>Old</summary>
 <table>
 <tr>
-<td><img src="image/Rejected/old/f0029080.png" width="200"/></td>
-<td><img src="image/Rejected/old/f16739104.png" width="200"/></td>
-<td><img src="image/Rejected/old/f16744720.png" width="200"/></td>
-<td><img src="image/Rejected/old/f16750944.png" width="200"/></td>
+<td><img src="image/Misc/old/f0029080.png" width="200"/></td>
+<td><img src="image/Misc/old/f16739104.png" width="200"/></td>
+<td><img src="image/Misc/old/f16744720.png" width="200"/></td>
+<td><img src="image/Misc/old/f16750944.png" width="200"/></td>
 </tr>
 <tr>
-<td><img src="image/Rejected/old/f353427816.jpg" width="200"/></td>
-<td><img src="image/Rejected/old/f436082336.jpg" width="200"/></td>
-<td><img src="image/Rejected/old/f510300504.jpg" width="200"/></td>
-<td><img src="image/Rejected/old/f522083016.jpg" width="200"/></td>
+<td><img src="image/Misc/old/f353427816.jpg" width="200"/></td>
+<td><img src="image/Misc/old/f436082336.jpg" width="200"/></td>
+<td><img src="image/Misc/old/f510300504.jpg" width="200"/></td>
+<td><img src="image/Misc/old/f522083016.jpg" width="200"/></td>
 </tr>
 <tr>
-<td><img src="image/Rejected/old/f538068696.jpg" width="200"/></td>
-<td><img src="image/Rejected/old/bp-miller-rGDv4llw-mk-unsplash.jpg" width="200"/></td>
-<td><img src="image/Rejected/old/wallhaven-763ryv.png" width="200"/></td>
-<td><img src="image/Rejected/old/wallhaven-neegvw.png" width="200"/></td>
+<td><img src="image/Misc/old/f538068696.jpg" width="200"/></td>
+<td><img src="image/Misc/old/bp-miller-rGDv4llw-mk-unsplash.jpg" width="200"/></td>
+<td><img src="image/Misc/old/wallhaven-763ryv.png" width="200"/></td>
+<td><img src="image/Misc/old/wallhaven-neegvw.png" width="200"/></td>
 </tr>
 </table>
 </details>
@@ -245,12 +245,12 @@ Wallpaper/
 <summary>funny</summary>
 <table>
 <tr>
-<td><img src="image/Rejected/funny/205644.jpg" width="200"/></td>
-<td><img src="image/Rejected/funny/205646.jpg" width="200"/></td>
-<td><img src="image/Rejected/funny/205654.jpg/" width="200"/></td>
-<td><img src="image/Rejected/funny/205655.jpg" width="200"/></td>
+<td><img src="image/Misc/funny/205644.jpg" width="200"/></td>
+<td><img src="image/Misc/funny/205646.jpg" width="200"/></td>
+<td><img src="image/Misc/funny/205654.jpg/" width="200"/></td>
+<td><img src="image/Misc/funny/205655.jpg" width="200"/></td>
 </tr>
-<td><img src="image/Rejected/funny/93932.jpg" width="200"/></td>
+<td><img src="image/Misc/funny/93932.jpg" width="200"/></td>
 <td></td>
 <td></td>
 <td></td>
@@ -262,19 +262,19 @@ Wallpaper/
 <summary>architect</summary>
 <table>
 <tr>
-<td><img src="image/Rejected/architect/2217476.jpg" width="200"/></td>
-<td><img src="image/Rejected/architect/pexels-momentsbypeterpatel-11835216.jpg" width="200"/></td>
-<td><img src="image/Rejected/architect/5917507.jpg" width="200"/></td>
-<td><img src="image/Rejected/architect/8442505.jpg" width="200"/></td>
+<td><img src="image/Misc/architect/2217476.jpg" width="200"/></td>
+<td><img src="image/Misc/architect/pexels-momentsbypeterpatel-11835216.jpg" width="200"/></td>
+<td><img src="image/Misc/architect/5917507.jpg" width="200"/></td>
+<td><img src="image/Misc/architect/8442505.jpg" width="200"/></td>
 </tr>
-<td><img src="image/Rejected/architect/pexels-byrahul-2121549.jpg" width="200"/></td>
-<td><img src="image/Rejected/architect/pexels-jigar-patel-759288102-19766571.jpg" width="200"/></td>
-<td><img src="image/Rejected/architect/pexels-setu-r8-3169012.jpg" width="200"/></td>
-<td><img src="image/Rejected/architect/5917495.jpg" width="200"/></td>
+<td><img src="image/Misc/architect/pexels-byrahul-2121549.jpg" width="200"/></td>
+<td><img src="image/Misc/architect/pexels-jigar-patel-759288102-19766571.jpg" width="200"/></td>
+<td><img src="image/Misc/architect/pexels-setu-r8-3169012.jpg" width="200"/></td>
+<td><img src="image/Misc/architect/5917495.jpg" width="200"/></td>
 </tr>
-<td><img src="image/Rejected/architect/5917531.jpg" width="200"/></td>
-<td><img src="image/Rejected/architect/pexels-anirudh-kashyap-1066393-4511745.jpg" width="200"/></td>
-<td><img src="image/Rejected/architect/pexels-hemant-singh-chauhan-639506990-26582100.jpg" width="200"/></td>
+<td><img src="image/Misc/architect/5917531.jpg" width="200"/></td>
+<td><img src="image/Misc/architect/pexels-anirudh-kashyap-1066393-4511745.jpg" width="200"/></td>
+<td><img src="image/Misc/architect/pexels-hemant-singh-chauhan-639506990-26582100.jpg" width="200"/></td>
 <td></td>
 </tr>
 </table>
@@ -298,9 +298,9 @@ git commit -m "Add new wallpaper"
 git push
 ```
 
-### Move a wallpaper to Rejected
+### Move a wallpaper to Misc
 ```bash
-mv image/wallpaper/unwanted.jpg image/Rejected/
+mv image/wallpaper/unwanted.jpg image/Misc/
 git add -A
 git commit -m "Reject unwanted.jpg"
 git push
