@@ -26,12 +26,11 @@ Wallpaper/
 ```
 
 ---
-
 ## 🎬 Live Wallpapers
 
 | Preview | File |
 |---------|------|
-| 🐸 Cozy Toads Terrarium | [cozy-toads-terrarium.mp4](live/cozy-toads-terrarium.mp4) |
+| ![Cozy Toads Terrarium](live/cozy-toads-terrarium.gif) | [cozy-toads-terrarium.mp4](live/cozy-toads-terrarium.mp4) |
 
 ---
 
