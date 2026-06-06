@@ -1,0 +1,19 @@
+#!/bin/sh
+
+# Get the absolute path of the repository root
+REPO_ROOT=$(git rev-parse --show-toplevel)
+
+# Move to the root directory where generate_readme.py lives
+cd "$REPO_ROOT"
+
+# Check if the script exists and is executable
+if [ -x "./generate_readme.py" ]; then
+    echo "🤖 Pre-commit: Regenerating README.md..."
+    ./generate_readme.py
+    
+    # Automatically stage the updated README.md
+    git add README.md
+else
+    echo "⚠️ Pre-commit Warning: generate_readme.py not found or not executable!"
+    echo "Run: chmod +x generate_readme.py"
+fi

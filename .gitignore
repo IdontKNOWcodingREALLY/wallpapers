@@ -1,11 +1,23 @@
-# ignore everything
+# 1. Ignore absolutely everything by default
 *
 
-# except these
+# 2. Whitelist specific configuration and script files
 !.gitignore
+!README.md
+!generate_readme.py
+
+# 3. Whitelist the image directory and everything inside it recursively
 !image/
 !image/**
+
+# 4. Whitelist your portable hooks directory and its scripts
+!hooks/
+!hooks/**
+
+# 5. Whitelist the live folder structure, but block its contents by default
 !live/
+live/*
+
+# 6. Explicitly allow ONLY these large live wallpaper files
 !live/cozy-toads-terrarium.mp4
 !live/cozy-toads-terrarium.gif
-!README.md
