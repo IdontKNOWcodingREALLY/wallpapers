@@ -1,4 +1,4 @@
-# 🖼️ Wallpapers
+# 🖼 Wallpapers
 
 A personal wallpaper collection — backup and dump.
 
@@ -15,12 +15,13 @@ A personal wallpaper collection — backup and dump.
 Wallpaper/
 ├── image/
 │   ├── wallpaper/     ← active wallpapers
-│   └── Misc/      ← Misc wallpapers categorize in diffrent folders
+│   └── Misc/      ← Misc wallpapers categorized in folders
 │       ├── Artemis II/
+│       ├── Painting wallpapers/
+│       ├── architect/
+│       ├── funny/
 │       ├── graphics/
-│       ├── old/
-|       ├── funny/
-|       └── architect/
+│       └── old/
 |
 └── live/              ← live/video wallpapers
 ```
@@ -30,11 +31,12 @@ Wallpaper/
 
 | Preview | File |
 |---------|------|
-| ![Cozy Toads Terrarium](live/cozy-toads-terrarium.gif) | [cozy-toads-terrarium.mp4](live/cozy-toads-terrarium.mp4) |
+| ![cozy-toads-terrarium](live/cozy-toads-terrarium.gif) | [cozy-toads-terrarium.mp4](live/cozy-toads-terrarium.mp4) |
+
 
 ---
 
-## 🖼️ Active Wallpapers
+## 🖼 Active Wallpapers
 
 <table>
 <tr>
@@ -46,114 +48,114 @@ Wallpaper/
 <tr>
 <td><img src="image/wallpaper/18_17-43-55.jpg" width="200"/></td>
 <td><img src="image/wallpaper/25_09-26-53.png" width="200"/></td>
+<td><img src="image/wallpaper/3257760.jpg" width="200"/></td>
+<td><img src="image/wallpaper/3257793.jpg" width="200"/></td>
+</tr>
+<tr>
 <td><img src="image/wallpaper/art002e009284~large.jpg" width="200"/></td>
 <td><img src="image/wallpaper/art002e009285~large.jpg" width="200"/></td>
-</tr>
-<tr>
 <td><img src="image/wallpaper/art002e009298~large.jpg" width="200"/></td>
 <td><img src="image/wallpaper/art002e009301~large.jpg" width="200"/></td>
+</tr>
+<tr>
 <td><img src="image/wallpaper/art002e009571~large.jpg" width="200"/></td>
 <td><img src="image/wallpaper/art002e009575~large.jpg" width="200"/></td>
-</tr>
-<tr>
 <td><img src="image/wallpaper/art002e012632~large.jpg" width="200"/></td>
 <td><img src="image/wallpaper/art002e014066~large.jpg" width="200"/></td>
+</tr>
+<tr>
 <td><img src="image/wallpaper/art002e015231~large.jpg" width="200"/></td>
 <td><img src="image/wallpaper/c-slowtumaagtso_upscayl_2x_upscayl-lite-4x.png" width="200"/></td>
-</tr>
-<tr>
 <td><img src="image/wallpaper/f0027256.png" width="200"/></td>
 <td><img src="image/wallpaper/f1095853224.png" width="200"/></td>
+</tr>
+<tr>
 <td><img src="image/wallpaper/f352582168.jpg" width="200"/></td>
 <td><img src="image/wallpaper/f521704104.jpg" width="200"/></td>
-</tr>
-<tr>
 <td><img src="image/wallpaper/f526928096.jpg" width="200"/></td>
 <td><img src="image/wallpaper/f6368576.jpg" width="200"/></td>
+</tr>
+<tr>
 <td><img src="image/wallpaper/f8469472.jpg" width="200"/></td>
 <td><img src="image/wallpaper/f8479040.jpg" width="200"/></td>
-</tr>
-<tr>
 <td><img src="image/wallpaper/f8481464.jpg" width="200"/></td>
 <td><img src="image/wallpaper/f8482464.jpg" width="200"/></td>
+</tr>
+<tr>
 <td><img src="image/wallpaper/f8482824.png" width="200"/></td>
 <td><img src="image/wallpaper/f8486368.png" width="200"/></td>
-</tr>
-<tr>
 <td><img src="image/wallpaper/f8491464.jpg" width="200"/></td>
 <td><img src="image/wallpaper/f8493672.jpg" width="200"/></td>
+</tr>
+<tr>
 <td><img src="image/wallpaper/f8494368.jpg" width="200"/></td>
 <td><img src="image/wallpaper/f8495992.jpg" width="200"/></td>
-</tr>
-<tr>
 <td><img src="image/wallpaper/f8512312.jpg" width="200"/></td>
 <td><img src="image/wallpaper/f8522120.jpg" width="200"/></td>
+</tr>
+<tr>
 <td><img src="image/wallpaper/f8523944.jpg" width="200"/></td>
 <td><img src="image/wallpaper/f8527488.jpg" width="200"/></td>
-</tr>
-<tr>
 <td><img src="image/wallpaper/f8528920.png" width="200"/></td>
 <td><img src="image/wallpaper/f8584504.jpg" width="200"/></td>
+</tr>
+<tr>
 <td><img src="image/wallpaper/f8588488.jpg" width="200"/></td>
 <td><img src="image/wallpaper/f8591792.jpg" width="200"/></td>
-</tr>
-<tr>
 <td><img src="image/wallpaper/f8647160.jpg" width="200"/></td>
 <td><img src="image/wallpaper/f9156320.jpg" width="200"/></td>
+</tr>
+<tr>
 <td><img src="image/wallpaper/f9160288.jpg" width="200"/></td>
 <td><img src="image/wallpaper/f9168152.jpg" width="200"/></td>
-</tr>
-<tr>
 <td><img src="image/wallpaper/f9168752.jpg" width="200"/></td>
 <td><img src="image/wallpaper/f9196088.jpg" width="200"/></td>
+</tr>
+<tr>
 <td><img src="image/wallpaper/f9202976.jpg" width="200"/></td>
 <td><img src="image/wallpaper/f9206984.jpg" width="200"/></td>
-</tr>
-<tr>
 <td><img src="image/wallpaper/f9212104.jpg" width="200"/></td>
 <td><img src="image/wallpaper/f9219768.jpg" width="200"/></td>
+</tr>
+<tr>
 <td><img src="image/wallpaper/f9229488.jpg" width="200"/></td>
 <td><img src="image/wallpaper/f9237448.jpg" width="200"/></td>
-</tr>
-<tr>
 <td><img src="image/wallpaper/f9239272.jpg" width="200"/></td>
 <td><img src="image/wallpaper/f9241968.jpg" width="200"/></td>
+</tr>
+<tr>
 <td><img src="image/wallpaper/f9257064.jpg" width="200"/></td>
 <td><img src="image/wallpaper/f9261616.jpg" width="200"/></td>
-</tr>
-<tr>
 <td><img src="image/wallpaper/f9263992.jpg" width="200"/></td>
 <td><img src="image/wallpaper/f9271432.jpg" width="200"/></td>
+</tr>
+<tr>
 <td><img src="image/wallpaper/f9283504.png" width="200"/></td>
 <td><img src="image/wallpaper/f9297144.png" width="200"/></td>
-</tr>
-<tr>
 <td><img src="image/wallpaper/f9301008.jpg" width="200"/></td>
 <td><img src="image/wallpaper/f9302752.jpg" width="200"/></td>
-<td><img src="image/wallpaper/f9304616.jpg" width="200"/></td>
-<td><img src="image/wallpaper/f9314352.jpg" width="200"/></td>
 </tr>
 <tr>
+<td><img src="image/wallpaper/f9304616.jpg" width="200"/></td>
+<td><img src="image/wallpaper/f9314352.jpg" width="200"/></td>
 <td><img src="image/wallpaper/f944504376.jpg" width="200"/></td>
+<td><img src="image/wallpaper/peakpx.jpg" width="200"/></td>
+</tr>
+<tr>
 <td><img src="image/wallpaper/wallhaven-0wr616.jpg" width="200"/></td>
 <td><img src="image/wallpaper/wallhaven-1p7xvv.png" width="200"/></td>
 <td><img src="image/wallpaper/wallhaven-3krwg6.jpg" width="200"/></td>
-</tr>
-<tr>
 <td><img src="image/wallpaper/wallhaven-4g935e.jpg" width="200"/></td>
+</tr>
+<tr>
 <td><img src="image/wallpaper/wallhaven-4yyx8d.jpg" width="200"/></td>
-<td><img src="image/wallpaper/peakpx.jpg" width="200"/></td>
 <td><img src="image/wallpaper/wallhaven-lywpjl.jpg" width="200"/></td>
-</tr>
-<tr>
-<td><img src="image/wallpaper/wp10194630-ousama-ranking-wallpapers_upscayl_1x_digital-art-4x.png" width="200"/></td>
 <td><img src="image/wallpaper/wallhaven-ox7k3m.jpg" width="200"/></td>
-<td><img src="image/wallpaper/wp10194439-ousama-ranking-wallpapers.jpg" width="200"/></td>
-<td><img src="image/wallpaper/3257793.jpg" width="200"> </td>
+<td><img src="image/wallpaper/wallpaperswide.com-kanchonjongha-peak-wallpaper-1920x1080.jpg" width="200"/></td>
 </tr>
 <tr>
-<td> <img src="image/wallpaper/3257760.jpg"  width="200"/></td>
-<td></td>
+<td><img src="image/wallpaper/wp10194439-ousama-ranking-wallpapers.jpg" width="200"/></td>
+<td><img src="image/wallpaper/wp10194630-ousama-ranking-wallpapers_upscayl_1x_digital-art-4x.png" width="200"/></td>
 <td></td>
 <td></td>
 </tr>
@@ -194,7 +196,85 @@ Wallpaper/
 </details>
 
 <details>
-<summary>Graphics</summary>
+<summary>Painting wallpapers</summary>
+<table>
+<tr>
+<td><img src="image/Misc/Painting wallpapers/106683739-fishes-and-blossoms-japanese-art.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/1277880.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/1428894.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/1428908.jpg" width="200"/></td>
+</tr>
+<tr>
+<td><img src="image/Misc/Painting wallpapers/207902-painting-art-wallpaper-background-image-picture.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/244817-landscape-oil-painting-wallpaper-1920x1080-oil-painting.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/339202-may-west-wallpaper-may-wallpaper-devil.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/397366.jpg" width="200"/></td>
+</tr>
+<tr>
+<td><img src="image/Misc/Painting wallpapers/397369.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/435574-old-watches-painting-ultra-hd-desktop-background-wallpaper-for-4k.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/56525620-blue-cherry-blossom-japanese-painting.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/828072-dark-floral-flower-arrangement-wallpaper-mural.jpg" width="200"/></td>
+</tr>
+<tr>
+<td><img src="image/Misc/Painting wallpapers/9644.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/Train Station Painting Wallpaper.jpg" width="200"/></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+</details>
+
+<details>
+<summary>architect</summary>
+<table>
+<tr>
+<td><img src="image/Misc/architect/2217476.jpg" width="200"/></td>
+<td><img src="image/Misc/architect/5917495.jpg" width="200"/></td>
+<td><img src="image/Misc/architect/5917507.jpg" width="200"/></td>
+<td><img src="image/Misc/architect/5917531.jpg" width="200"/></td>
+</tr>
+<tr>
+<td><img src="image/Misc/architect/8442505.jpg" width="200"/></td>
+<td><img src="image/Misc/architect/pexels-anirudh-kashyap-1066393-4511745.jpg" width="200"/></td>
+<td><img src="image/Misc/architect/pexels-byrahul-2121549.jpg" width="200"/></td>
+<td><img src="image/Misc/architect/pexels-hemant-singh-chauhan-639506990-26582100.jpg" width="200"/></td>
+</tr>
+<tr>
+<td><img src="image/Misc/architect/pexels-jigar-patel-759288102-19766571.jpg" width="200"/></td>
+<td><img src="image/Misc/architect/pexels-momentsbypeterpatel-11835216.jpg" width="200"/></td>
+<td><img src="image/Misc/architect/pexels-setu-r8-3169012.jpg" width="200"/></td>
+<td><img src="image/Misc/architect/wallpaperswide.com-amer-fort-india-wallpaper-1920x1080.jpg" width="200"/></td>
+</tr>
+<tr>
+<td><img src="image/Misc/architect/wallpaperswide.com-jaisalmer-fort-2-wallpaper-1920x1080.jpg" width="200"/></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+</details>
+
+<details>
+<summary>funny</summary>
+<table>
+<tr>
+<td><img src="image/Misc/funny/205644.jpg" width="200"/></td>
+<td><img src="image/Misc/funny/205646.jpg" width="200"/></td>
+<td><img src="image/Misc/funny/205654.jpg" width="200"/></td>
+<td><img src="image/Misc/funny/205655.jpg" width="200"/></td>
+</tr>
+<tr>
+<td><img src="image/Misc/funny/93932.jpg" width="200"/></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+</details>
+
+<details>
+<summary>graphics</summary>
 <table>
 <tr>
 <td><img src="image/Misc/graphics/f242833344.jpg" width="200"/></td>
@@ -218,64 +298,25 @@ Wallpaper/
 </details>
 
 <details>
-<summary>Old</summary>
+<summary>old</summary>
 <table>
 <tr>
+<td><img src="image/Misc/old/bp-miller-rGDv4llw-mk-unsplash.jpg" width="200"/></td>
 <td><img src="image/Misc/old/f0029080.png" width="200"/></td>
 <td><img src="image/Misc/old/f16739104.png" width="200"/></td>
 <td><img src="image/Misc/old/f16744720.png" width="200"/></td>
-<td><img src="image/Misc/old/f16750944.png" width="200"/></td>
 </tr>
 <tr>
+<td><img src="image/Misc/old/f16750944.png" width="200"/></td>
 <td><img src="image/Misc/old/f353427816.jpg" width="200"/></td>
 <td><img src="image/Misc/old/f436082336.jpg" width="200"/></td>
 <td><img src="image/Misc/old/f510300504.jpg" width="200"/></td>
-<td><img src="image/Misc/old/f522083016.jpg" width="200"/></td>
 </tr>
 <tr>
+<td><img src="image/Misc/old/f522083016.jpg" width="200"/></td>
 <td><img src="image/Misc/old/f538068696.jpg" width="200"/></td>
-<td><img src="image/Misc/old/bp-miller-rGDv4llw-mk-unsplash.jpg" width="200"/></td>
 <td><img src="image/Misc/old/wallhaven-763ryv.png" width="200"/></td>
 <td><img src="image/Misc/old/wallhaven-neegvw.png" width="200"/></td>
-</tr>
-</table>
-</details>
-
-<details>
-<summary>funny</summary>
-<table>
-<tr>
-<td><img src="image/Misc/funny/205644.jpg" width="200"/></td>
-<td><img src="image/Misc/funny/205646.jpg" width="200"/></td>
-<td><img src="image/Misc/funny/205654.jpg/" width="200"/></td>
-<td><img src="image/Misc/funny/205655.jpg" width="200"/></td>
-</tr>
-<td><img src="image/Misc/funny/93932.jpg" width="200"/></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-</details>
-
-<details>
-<summary>architect</summary>
-<table>
-<tr>
-<td><img src="image/Misc/architect/2217476.jpg" width="200"/></td>
-<td><img src="image/Misc/architect/pexels-momentsbypeterpatel-11835216.jpg" width="200"/></td>
-<td><img src="image/Misc/architect/5917507.jpg" width="200"/></td>
-<td><img src="image/Misc/architect/8442505.jpg" width="200"/></td>
-</tr>
-<td><img src="image/Misc/architect/pexels-byrahul-2121549.jpg" width="200"/></td>
-<td><img src="image/Misc/architect/pexels-jigar-patel-759288102-19766571.jpg" width="200"/></td>
-<td><img src="image/Misc/architect/pexels-setu-r8-3169012.jpg" width="200"/></td>
-<td><img src="image/Misc/architect/5917495.jpg" width="200"/></td>
-</tr>
-<td><img src="image/Misc/architect/5917531.jpg" width="200"/></td>
-<td><img src="image/Misc/architect/pexels-anirudh-kashyap-1066393-4511745.jpg" width="200"/></td>
-<td><img src="image/Misc/architect/pexels-hemant-singh-chauhan-639506990-26582100.jpg" width="200"/></td>
-<td></td>
 </tr>
 </table>
 </details>
@@ -293,6 +334,7 @@ git clone git@github.com:IdontKNOWcodingREALLY/wallpapers.git /mnt/hdd/Pictures/
 ```bash
 cd /mnt/hdd/Pictures/Wallpaper
 cp /path/to/new.jpg image/wallpaper/
+python3 generate_readme.py
 git add -A
 git commit -m "Add new wallpaper"
 git push
@@ -301,6 +343,7 @@ git push
 ### Move a wallpaper to Misc
 ```bash
 mv image/wallpaper/unwanted.jpg image/Misc/
+python3 generate_readme.py
 git add -A
 git commit -m "Reject unwanted.jpg"
 git push
@@ -313,10 +356,13 @@ Edit `.gitignore` to include the new file:
 ```
 Then:
 ```bash
+python3 generate_readme.py
 git add -A
 git commit -m "Add new live wallpaper"
 git push
 ```
 
 ### Update README after adding new wallpapers
-Re-add the new images to the table in `README.md` manually, or regenerate it.
+```bash
+python3 generate_readme.py
+```
