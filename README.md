@@ -21,6 +21,7 @@ Wallpaper/
 │       ├── architect/
 │       ├── funny/
 │       ├── graphics/
+│       ├── nature/
 │       └── old/
 |
 └── live/              ← live/video wallpapers
@@ -196,18 +197,42 @@ Wallpaper/
 <td><img src="image/Misc/Painting wallpapers/106683739-fishes-and-blossoms-japanese-art.jpg" width="200"/></td>
 <td><img src="image/Misc/Painting wallpapers/1277880.jpg" width="200"/></td>
 <td><img src="image/Misc/Painting wallpapers/1428908.jpg" width="200"/></td>
-<td><img src="image/Misc/Painting wallpapers/207902-painting-art-wallpaper-background-image-picture.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/1719355781392302.jpg" width="200"/></td>
 </tr>
 <tr>
+<td><img src="image/Misc/Painting wallpapers/1720071047634644.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/1720229263061378.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/1724429177053930.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/1728273590467727.jpg" width="200"/></td>
+</tr>
+<tr>
+<td><img src="image/Misc/Painting wallpapers/1746966032708650.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/1748500420582797.png" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/1758200060389707.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/1758449712273053.jpg" width="200"/></td>
+</tr>
+<tr>
+<td><img src="image/Misc/Painting wallpapers/1761852672791627.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/1771222089882993.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/1772425196815516.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/1774312428280984.jpg" width="200"/></td>
+</tr>
+<tr>
+<td><img src="image/Misc/Painting wallpapers/1779840390964860.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/207902-painting-art-wallpaper-background-image-picture.jpg" width="200"/></td>
 <td><img src="image/Misc/Painting wallpapers/244817-landscape-oil-painting-wallpaper-1920x1080-oil-painting.jpg" width="200"/></td>
 <td><img src="image/Misc/Painting wallpapers/339202-may-west-wallpaper-may-wallpaper-devil.jpg" width="200"/></td>
-<td><img src="image/Misc/Painting wallpapers/397366.jpg" width="200"/></td>
-<td><img src="image/Misc/Painting wallpapers/397369.jpg" width="200"/></td>
 </tr>
 <tr>
+<td><img src="image/Misc/Painting wallpapers/397366.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/397369.jpg" width="200"/></td>
 <td><img src="image/Misc/Painting wallpapers/435574-old-watches-painting-ultra-hd-desktop-background-wallpaper-for-4k.jpg" width="200"/></td>
 <td><img src="image/Misc/Painting wallpapers/56525620-blue-cherry-blossom-japanese-painting.jpg" width="200"/></td>
+</tr>
+<tr>
 <td><img src="image/Misc/Painting wallpapers/828072-dark-floral-flower-arrangement-wallpaper-mural.jpg" width="200"/></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </table>
@@ -281,6 +306,48 @@ Wallpaper/
 <td><img src="image/Misc/graphics/f242938264.jpg" width="200"/></td>
 <td><img src="image/Misc/graphics/f242942552.jpg" width="200"/></td>
 <td><img src="image/Misc/graphics/f242946048.png" width="200"/></td>
+</tr>
+</table>
+</details>
+
+<details>
+<summary>nature</summary>
+<table>
+<tr>
+<td><img src="image/Misc/nature/1738047672921369.jpg" width="200"/></td>
+<td><img src="image/Misc/nature/1740137633540460.jpg" width="200"/></td>
+<td><img src="image/Misc/nature/1740351441535783.jpg" width="200"/></td>
+<td><img src="image/Misc/nature/1740566040454203.png" width="200"/></td>
+</tr>
+<tr>
+<td><img src="image/Misc/nature/1746431510171875.jpg" width="200"/></td>
+<td><img src="image/Misc/nature/1746431541983128.jpg" width="200"/></td>
+<td><img src="image/Misc/nature/1746501471793559.jpg" width="200"/></td>
+<td><img src="image/Misc/nature/1746760414656189.jpg" width="200"/></td>
+</tr>
+<tr>
+<td><img src="image/Misc/nature/1746760477045373.jpg" width="200"/></td>
+<td><img src="image/Misc/nature/1749960523803848.jpg" width="200"/></td>
+<td><img src="image/Misc/nature/1750138154527987.jpg" width="200"/></td>
+<td><img src="image/Misc/nature/1755302570325724.jpg" width="200"/></td>
+</tr>
+<tr>
+<td><img src="image/Misc/nature/1755302791373130.jpg" width="200"/></td>
+<td><img src="image/Misc/nature/1758317095945694.jpg" width="200"/></td>
+<td><img src="image/Misc/nature/1759316900848874.jpg" width="200"/></td>
+<td><img src="image/Misc/nature/1763957078308558.jpg" width="200"/></td>
+</tr>
+<tr>
+<td><img src="image/Misc/nature/1771674694683776.jpg" width="200"/></td>
+<td><img src="image/Misc/nature/1772589736407326.jpg" width="200"/></td>
+<td><img src="image/Misc/nature/1773464485314974.jpg" width="200"/></td>
+<td><img src="image/Misc/nature/1774736481124404.jpg" width="200"/></td>
+</tr>
+<tr>
+<td><img src="image/Misc/nature/1778395782459670.jpg" width="200"/></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 </details>
