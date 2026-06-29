@@ -19,6 +19,7 @@ Wallpaper/
 │       ├── Artemis II/
 │       ├── Painting wallpapers/
 │       ├── architect/
+│       ├── batman/
 │       ├── funny/
 │       ├── graphics/
 │       ├── nature/
@@ -231,7 +232,13 @@ Wallpaper/
 </tr>
 <tr>
 <td><img src="image/Misc/Painting wallpapers/828072-dark-floral-flower-arrangement-wallpaper-mural.jpg" width="200"/></td>
-<td></td>
+<td><img src="image/Misc/Painting wallpapers/Dogs.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/kitty.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/nvjdnjivn.jpg" width="200"/></td>
+</tr>
+<tr>
+<td><img src="image/Misc/Painting wallpapers/wallhaven-vp5q63_1920x1080.png" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/wallpaperflare.jpg" width="200"/></td>
 <td></td>
 <td></td>
 </tr>
@@ -263,6 +270,18 @@ Wallpaper/
 <td><img src="image/Misc/architect/wallpaperswide.com-jaisalmer-fort-2-wallpaper-1920x1080.jpg" width="200"/></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+</table>
+</details>
+
+<details>
+<summary>batman</summary>
+<table>
+<tr>
+<td><img src="image/Misc/batman/dhbfhkdbckj.jpg" width="200"/></td>
+<td><img src="image/Misc/batman/wallhaven-43ppy6_1920x1080.png" width="200"/></td>
+<td><img src="image/Misc/batman/wallhaven-qrlwkl_1920x1080.png" width="200"/></td>
 <td></td>
 </tr>
 </table>
@@ -356,22 +375,28 @@ Wallpaper/
 <summary>old</summary>
 <table>
 <tr>
+<td><img src="image/Misc/old/Untitled.jpg" width="200"/></td>
 <td><img src="image/Misc/old/bp-miller-rGDv4llw-mk-unsplash.jpg" width="200"/></td>
 <td><img src="image/Misc/old/f0029080.png" width="200"/></td>
 <td><img src="image/Misc/old/f16739104.png" width="200"/></td>
-<td><img src="image/Misc/old/f16744720.png" width="200"/></td>
 </tr>
 <tr>
+<td><img src="image/Misc/old/f16744720.png" width="200"/></td>
 <td><img src="image/Misc/old/f16750944.png" width="200"/></td>
 <td><img src="image/Misc/old/f353427816.jpg" width="200"/></td>
 <td><img src="image/Misc/old/f436082336.jpg" width="200"/></td>
-<td><img src="image/Misc/old/f510300504.jpg" width="200"/></td>
 </tr>
 <tr>
+<td><img src="image/Misc/old/f510300504.jpg" width="200"/></td>
 <td><img src="image/Misc/old/f522083016.jpg" width="200"/></td>
 <td><img src="image/Misc/old/f538068696.jpg" width="200"/></td>
 <td><img src="image/Misc/old/wallhaven-763ryv.png" width="200"/></td>
+</tr>
+<tr>
 <td><img src="image/Misc/old/wallhaven-neegvw.png" width="200"/></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 </details>
