@@ -227,12 +227,18 @@ Wallpaper/
 <tr>
 <td><img src="image/Misc/Painting wallpapers/828072-dark-floral-flower-arrangement-wallpaper-mural.jpg" width="200"/></td>
 <td><img src="image/Misc/Painting wallpapers/Dogs.jpg" width="200"/></td>
-<td><img src="image/Misc/Painting wallpapers/kitty.jpg" width="200"/></td>
-<td><img src="image/Misc/Painting wallpapers/nvjdnjivn.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/dfvdvdvd.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/dn kdbvdvd.jpg" width="200"/></td>
 </tr>
 <tr>
+<td><img src="image/Misc/Painting wallpapers/kitty.jpg" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/nvjdnjivn.jpg" width="200"/></td>
 <td><img src="image/Misc/Painting wallpapers/wallhaven-vp5q63_1920x1080.png" width="200"/></td>
+<td><img src="image/Misc/Painting wallpapers/wallpaperflare.com_wallpaper.jpg" width="200"/></td>
+</tr>
+<tr>
 <td><img src="image/Misc/Painting wallpapers/wallpaperflare.jpg" width="200"/></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
